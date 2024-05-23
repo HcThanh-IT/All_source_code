@@ -1,8 +1,9 @@
 document.addEventListener("DOMContentLoaded", function() {
     const sources = [
         { name: "Tính tuổi~", url: "source_code/age-calculator-main/index.html" },
-        { name: "Source Code 2", url: "source2.html" },
-        { name: "Source Code 3", url: "source3.html" },
+        { name: "Source Code 2", url: "source_code/scroll-parallax-main/index.html" },
+        { name: "Source Code 3", url: "source_code/shoppie-master/index.html" },
+        { name: "Nike", url: "source_code/nike-master/index.html" },
         // Thêm các source code khác vào đây
     ];
 
